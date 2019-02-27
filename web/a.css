@@ -1,0 +1,46 @@
+.d1
+{
+        
+	text-align:center;
+        font-family:monospace;
+        color:#3241A2;
+         
+        
+	
+}
+
+#e1{
+     font-size: 30px;
+    margin-left: 10px;
+    border-radius: 5px;
+    width:11%; height:24%;
+    
+}
+
+#b1
+{
+    color: #DC143C;
+    padding: 10px;
+    width: 30%; height:56%;
+        font-size: 25px; 
+        border-radius:5px;
+    
+}
+
+#b2{
+    
+    width:11%; height:24%;
+    font-size: 30px;
+    border-radius:5px;
+}
+.d2
+{
+    text-align: center;
+}
+.D{
+    background-color: rgb(246,222,196,1);
+    width: 80%; height:auto;
+    margin: auto;
+    box-shadow:-5px -5px red;
+    border-radius: 15px;
+}
